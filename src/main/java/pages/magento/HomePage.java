@@ -1,4 +1,4 @@
 package pages.magento;
 
-public class homePage {
+public class HomePage {
 }

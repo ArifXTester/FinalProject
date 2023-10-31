@@ -1,4 +1,4 @@
 package pages.demoblaze;
 
-public class paymentInfo {
+public class CheckoutPage {
 }

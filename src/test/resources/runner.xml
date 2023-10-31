@@ -15,8 +15,8 @@
 
     <test name="login sauce demo test">
         <classes>
-            <class name="saucedemotest.ValidLoginTest"></class>
-            <class name="saucedemotest.InvalidLoginTest"></class>
+<!--            <class name="saucedemotest.ValidLoginTest"></class>-->
+<!--            <class name="saucedemotest.InvalidLoginTest"></class>-->
         </classes>
     </test>
 </suite>

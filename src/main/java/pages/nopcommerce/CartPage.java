@@ -1,4 +1,4 @@
 package pages.nopcommerce;
 
-public class cartPage {
+public class CartPage {
 }
